@@ -31,7 +31,7 @@ The **Pro pack** adds:
 - ClickSend support, dry-run mode and a status page
 - AU compliance notes, setup docs and test scripts
 
-**Want the full Australian version?** The Booking Reminder Pack (Pro) adds confirmations, Y/R replies, the morning run sheet, email, ClickSend and full setup docs. Store link coming soon; questions to aussieflows@mail.grokbot.com.
+**Want the full Australian version?** The Booking Reminder Pack (Pro) adds confirmations, Y/R replies, the morning run sheet, email, ClickSend and full setup docs. [Get the Pro pack on Polar](https://buy.polar.sh/polar_cl_c5oHrSdYGAhwbLH3sF2qGIRuPpyBE3xUUJ5LB0F5f2v); questions to aussieflows@mail.grokbot.com.
 
 [Notify me when Pro is out](mailto:aussieflows@mail.grokbot.com?subject=Notify%20me%20-%20Booking%20Reminder%20Pack).
 
