@@ -9,6 +9,8 @@ One reminder SMS before each booking, so fewer customers forget you're coming.
 - STOP/START opt-out handling (business name + "Reply STOP to opt out" in every text)
 - Daily SMS cap and optional webhook secret (`sharedSecret`)
 
+Tested end-to-end in n8n with simulated APIs (a local mock of the Twilio API); no live SMS or email provider was used in testing.
+
 ## Setup (about 15 minutes)
 1. n8n → **Import from file** → `workflow/booking-reminder-lite.n8n.json`.
 2. Open **Decide** and set `businessName`, `timezone`, `sms.from` (your Twilio AU mobile in +61 format) and `sms.twilioAccountSid`.
