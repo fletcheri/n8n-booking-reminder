@@ -31,6 +31,8 @@ The **Pro pack** adds:
 
 **Want the full Australian version?** The Booking Reminder Pack (Pro) adds confirmations, Y/R replies, the morning run sheet, email, ClickSend and full setup docs. Store link coming soon; questions to aussieflows@mail.grokbot.com.
 
+[Notify me when Pro is out](mailto:aussieflows@mail.grokbot.com?subject=Notify%20me%20-%20Booking%20Reminder%20Pack).
+
 ## More free AU workflows
 Other free n8n workflows for Australian small businesses (MIT, same setup style):
 - [Missed-Call Text-Back](https://github.com/fletcheri/n8n-missed-call-textback): text back missed callers in seconds
